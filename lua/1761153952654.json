@@ -5,7 +5,9 @@
     "title": "test",
     "content": "print(12445)",
     "description": "hahaj",
-    "comment": [],
+    "comment": [
+      "lô"
+    ],
     "ip": "171.243.58.254"
   }
 ]
