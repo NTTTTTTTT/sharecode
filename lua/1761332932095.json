@@ -5,7 +5,13 @@
     "title": "Anti AFK",
     "content": "local vu = game:GetService(\"VirtualUser\")                                   \ngame:GetService(\"Players\").LocalPlayer.Idled:connect(function()                                        \nvu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)                                        \nwait(1)                                       \nvu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)                                   \nend)",
     "description": "Anti AFK no kick 20 min",
-    "comment": [],
+    "comment": [
+      {
+        "user": "nekokawaii4500",
+        "date": "02:19:11 25/10/2025",
+        "text": "bao vip"
+      }
+    ],
     "ip": "113.185.95.139"
   }
 ]
