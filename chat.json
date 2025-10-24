@@ -20,7 +20,7 @@
     "name": "neko1234",
     "nickname": "neko",
     "date": "00:12:49 25/10/2025",
-    "content": "lÃ´"
+    "content": "lÃÂ´"
   },
   {
     "name": "Khiemmen123",
@@ -33,5 +33,11 @@
     "nickname": "Khiemmen123",
     "date": "00:15:35 25/10/2025",
     "content": "Hello neko"
+  },
+  {
+    "name": "neko4500",
+    "nickname": "neko4500",
+    "date": "00:15:46 25/10/2025",
+    "content": "hello bro"
   }
 ]
