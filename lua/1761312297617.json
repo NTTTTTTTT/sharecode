@@ -5,7 +5,13 @@
     "title": "hello",
     "content": "print(1111)",
     "description": "test thôi nha",
-    "comment": [],
+    "comment": [
+      {
+        "user": "Khiemmen123",
+        "date": "00:44:07 25/10/2025",
+        "text": "oki"
+      }
+    ],
     "ip": "113.185.95.139"
   }
 ]
